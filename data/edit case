@@ -1,0 +1,307 @@
+"AK-47 | Head Shot": {
+    "skin": "AK-47 | Head Shot",
+    "collection": "Revolution Case",
+    "minFloat": 0,
+    "maxFloat": 1,
+    "rarity": "Covert",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ak47_cu_ak_head_shot_holo_light_large.85be84ba7c07917493b8e8a66c9d95c928ebe8b6.png",
+    "souvenirAvailable": false,
+    "stattrackAvailable": true,
+    "rarityNumber": 5,
+    "lowestRarity": false,
+    "highestRarity": true
+  },
+  "M4A4 | Temukau": {
+    "skin": "M4A4 | Temukau",
+    "collection": "Revolution Case",
+    "minFloat": 0,
+    "maxFloat": 0.8,
+    "rarity": "Covert",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_cu_m4a4_temukau_light_large.a41eb80c70cbbee5d84e53b5cd1eaa10954c938d.png",
+    "souvenirAvailable": false,
+    "stattrackAvailable": true,
+    "rarityNumber": 5,
+    "lowestRarity": false,
+    "highestRarity": true
+  },
+  "AWP | Duality": {
+    "skin": "AWP | Duality",
+    "collection": "Revolution Case",
+    "minFloat": 0,
+    "maxFloat": 0.7,
+    "rarity": "Classified",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_awp_gs_awp_limbo_snake_light_large.60984ce1e5c1a4ac10e83444a9b7e7f78dd98b1e.png",
+    "souvenirAvailable": false,
+    "stattrackAvailable": true,
+    "rarityNumber": 4,
+    "lowestRarity": false,
+    "highestRarity": false,
+    "tradeup": [
+      "AK-47 | Head Shot",
+      "M4A4 | Temukau"
+    ]
+  },
+  "P2000 | Wicked Sick": {
+    "skin": "P2000 | Wicked Sick",
+    "collection": "Revolution Case",
+    "minFloat": 0,
+    "maxFloat": 1,
+    "rarity": "Classified",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_hkp2000_cu_p2000_decline_light_large.7f57145674a5e41b3b8e7fe70be4ffbb57ec6f84.png",
+    "souvenirAvailable": false,
+    "stattrackAvailable": true,
+    "rarityNumber": 4,
+    "lowestRarity": false,
+    "highestRarity": false,
+    "tradeup": [
+      "AK-47 | Head Shot",
+      "M4A4 | Temukau"
+    ]
+  },
+  "UMP-45 | Wild Child": {
+    "skin": "UMP-45 | Wild Child",
+    "collection": "Revolution Case",
+    "minFloat": 0,
+    "maxFloat": 1,
+    "rarity": "Classified",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_ump45_cu_ump_clutch_kick_light_large.b57e43c07b433517b1c3bdaa1e52ce44878af481.png",
+    "souvenirAvailable": false,
+    "stattrackAvailable": true,
+    "rarityNumber": 4,
+    "lowestRarity": false,
+    "highestRarity": false,
+    "tradeup": [
+      "AK-47 | Head Shot",
+      "M4A4 | Temukau"
+    ]
+  },
+  "M4A1-S | Emphorosaur-S": {
+    "skin": "M4A1-S | Emphorosaur-S",
+    "collection": "Revolution Case",
+    "minFloat": 0,
+    "maxFloat": 0.8,
+    "rarity": "Restricted",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_m4a1_silencer_cu_m4a1s_feeding_frenzy_light_large.e1cb803e0e10ae4457e42d34ec8515b1500f4762.png",
+    "souvenirAvailable": false,
+    "stattrackAvailable": true,
+    "rarityNumber": 3,
+    "lowestRarity": false,
+    "highestRarity": false,
+    "tradeup": [
+      "AWP | Duality",
+      "UMP-45 | Wild Child",
+      "P2000 | Wicked Sick"
+    ]
+  },
+  "P90 | Neoqueen": {
+    "skin": "P90 | Neoqueen",
+    "collection": "Revolution Case",
+    "minFloat": 0,
+    "maxFloat": 0.6,
+    "rarity": "Restricted",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p90_gs_p90_neoqueen_light_large.fa2a81f8c7906b2683b5eb4b562edd2529ad2cf0.png",
+    "souvenirAvailable": false,
+    "stattrackAvailable": true,
+    "rarityNumber": 3,
+    "lowestRarity": false,
+    "highestRarity": false,
+    "tradeup": [
+      "AWP | Duality",
+      "UMP-45 | Wild Child",
+      "P2000 | Wicked Sick"
+    ]
+  },
+  "Glock-18 | Umbral Rabbit": {
+    "skin": "Glock-18 | Umbral Rabbit",
+    "collection": "Revolution Case",
+    "minFloat": 0,
+    "maxFloat": 0.75,
+    "rarity": "Restricted",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_glock_cu_glock_moon_rabbit_light_large.9063b9745250446c657632eb13a6325f51d101f2.png",
+    "souvenirAvailable": false,
+    "stattrackAvailable": true,
+    "rarityNumber": 3,
+    "lowestRarity": false,
+    "highestRarity": false,
+    "tradeup": [
+      "AWP | Duality",
+      "UMP-45 | Wild Child",
+      "P2000 | Wicked Sick"
+    ]
+  },
+  "MAC-10 | Sakkaku": {
+    "skin": "MAC-10 | Sakkaku",
+    "collection": "Revolution Case",
+    "minFloat": 0.21,
+    "maxFloat": 0.79,
+    "rarity": "Restricted",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mac10_cu_mac10_sakkaku_light_large.b590689d0ca099e8a759dd0a86da0710a58bca42.png",
+    "souvenirAvailable": false,
+    "stattrackAvailable": true,
+    "rarityNumber": 3,
+    "lowestRarity": false,
+    "highestRarity": false,
+    "tradeup": [
+      "AWP | Duality",
+      "UMP-45 | Wild Child",
+      "P2000 | Wicked Sick"
+    ]
+  },
+  "R8 Revolver | Banana Cannon": {
+    "skin": "R8 Revolver | Banana Cannon",
+    "collection": "Revolution Case",
+    "minFloat": 0,
+    "maxFloat": 1,
+    "rarity": "Restricted",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_revolver_gs_r8_banana_light_large.50f0b729a36a405d48b41d58463234dbbd15b9cf.png",
+    "souvenirAvailable": false,
+    "stattrackAvailable": true,
+    "rarityNumber": 2,
+    "lowestRarity": true,
+    "highestRarity": false,
+    "tradeup": [
+      "AWP | Duality",
+      "UMP-45 | Wild Child",
+      "P2000 | Wicked Sick"
+    ]
+  },
+  "MP5-SD | Liquidation": {
+    "skin": "MP5-SD | Liquidation",
+    "collection": "Revolution Case",
+    "minFloat": 0,
+    "maxFloat": 1,
+    "rarity": "Mil-Spec",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp5sd_cu_mp5sd_quick_liquidation_light_large.2b446c710928debe38469e33b3b9030bd218c0e3.png",
+    "souvenirAvailable": false,
+    "stattrackAvailable": true,
+    "rarityNumber": 2,
+    "lowestRarity": true,
+    "highestRarity": false,
+    "tradeup": [
+      "MAC-10 | Sakkaku",
+      "R8 Revolver | Banana Cannon",
+      "Glock-18 | Umbral Rabbit",
+      "P90 | Neoqueen",
+      "M4A1-S | Emphorosaur-S"
+    ]
+  },
+  "MP9 | Featherweight": {
+    "skin": "MP9 | Featherweight",
+    "collection": "Revolution Case",
+    "minFloat": 0,
+    "maxFloat": 1,
+    "rarity": "Mil-Spec",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mp9_cu_mp9_superlight_light_large.81ad837f4c889f250fa03b227ef74555614de55d.png",
+    "souvenirAvailable": false,
+    "stattrackAvailable": true,
+    "rarityNumber": 2,
+    "lowestRarity": true,
+    "highestRarity": false,
+    "tradeup": [
+      "MAC-10 | Sakkaku",
+      "R8 Revolver | Banana Cannon",
+      "Glock-18 | Umbral Rabbit",
+      "P90 | Neoqueen",
+      "M4A1-S | Emphorosaur-S"
+    ]
+  },
+  "SG 553 | Cyberforce": {
+    "skin": "SG 553 | Cyberforce",
+    "collection": "Revolution Case",
+    "minFloat": 0,
+    "maxFloat": 0.90,
+    "rarity": "Mil-Spec",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_sg556_cu_sg553_cyberforce_light_large.63aa4e611195d801eb706ac65d38df68f98e2b76.png",
+    "souvenirAvailable": false,
+    "stattrackAvailable": true,
+    "rarityNumber": 2,
+    "lowestRarity": true,
+    "highestRarity": false,
+    "tradeup": [
+      "MAC-10 | Sakkaku",
+      "R8 Revolver | Banana Cannon",
+      "Glock-18 | Umbral Rabbit",
+      "P90 | Neoqueen",
+      "M4A1-S | Emphorosaur-S"
+    ]
+  },
+  "MAG-7 | Insomnia": {
+    "skin": "MAG-7 | Insomnia",
+    "collection": "Revolution Case",
+    "minFloat": 0,
+    "maxFloat": 1,
+    "rarity": "Mil-Spec",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_mag7_cu_mag7_insomnia_light_large.0d971fb17ca0bb1df7baed6a1caa902c56c1ea5b.png",
+    "souvenirAvailable": false,
+    "stattrackAvailable": true,
+    "rarityNumber": 2,
+    "lowestRarity": true,
+    "highestRarity": false,
+    "tradeup": [
+      "MAC-10 | Sakkaku",
+      "R8 Revolver | Banana Cannon",
+      "Glock-18 | Umbral Rabbit",
+      "P90 | Neoqueen",
+      "M4A1-S | Emphorosaur-S"
+    ]
+  },
+  "P250 | Re.built": {
+    "skin": "P250 | Re.built",
+    "collection": "Revolution Case",
+    "minFloat": 0,
+    "maxFloat": 0.90,
+    "rarity": "Mil-Spec",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_p250_cu_p250_rebuilt_light_large.69d4fcb9a8151d09818d1c26cf4c7b03d046b5a1.png",
+    "souvenirAvailable": false,
+    "stattrackAvailable": true,
+    "rarityNumber": 2,
+    "lowestRarity": true,
+    "highestRarity": false,
+    "tradeup": [
+      "MAC-10 | Sakkaku",
+      "R8 Revolver | Banana Cannon",
+      "Glock-18 | Umbral Rabbit",
+      "P90 | Neoqueen",
+      "M4A1-S | Emphorosaur-S"
+    ]
+  },
+  "SCAR-20 | Fragments": {
+    "skin": "SCAR-20 | Fragments",
+    "collection": "Revolution Case",
+    "minFloat": 0,
+    "maxFloat": 0.7,
+    "rarity": "Mil-Spec",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_scar20_gs_scar_fragments_black_light_large.d6bde287b06ba2380ba07621a0b06c36b13c4025.png",
+    "souvenirAvailable": false,
+    "stattrackAvailable": true,
+    "rarityNumber": 2,
+    "lowestRarity": true,
+    "highestRarity": false,
+    "tradeup": [
+      "MAC-10 | Sakkaku",
+      "R8 Revolver | Banana Cannon",
+      "Glock-18 | Umbral Rabbit",
+      "P90 | Neoqueen",
+      "M4A1-S | Emphorosaur-S"
+    ]
+  },
+  "Tec-9 | Rebel": {
+    "skin": "Tec-9 | Rebel",
+    "collection": "Revolution Case",
+    "minFloat": 0,
+    "maxFloat": 1,
+    "rarity": "Mil-Spec",
+    "img": "https://steamcdn-a.akamaihd.net/apps/730/icons/econ/default_generated/weapon_tec9_cu_tec9_freedom_light_large.bb79585222a88d4dd3b154915c5527cac7e507d1.png",
+    "souvenirAvailable": false,
+    "stattrackAvailable": true,
+    "rarityNumber": 2,
+    "lowestRarity": true,
+    "highestRarity": false,
+    "tradeup": [
+      "MAC-10 | Sakkaku",
+      "R8 Revolver | Banana Cannon",
+      "Glock-18 | Umbral Rabbita",
+      "P90 | Neoqueen",
+      "M4A1-S | Emphorosaur-S"
+    ]
+  },
