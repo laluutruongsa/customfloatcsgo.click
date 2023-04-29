@@ -6,7 +6,7 @@ function enterFloats() {
   toggleDisplay('addFloats');
 
   var skin = skinDataBySkin[document.querySelector('#chooseFloat > div > img').getAttribute('data-skin')];
-  var neededAvg = formatFloat(ieee(ieee(ieee(float)-ieee(skin.minFloat))/ieee(ieee(skin.maxFloat)-ieee(skin.minFloat)))).substring(0, 6);
+  var neededAvg = formatFloat(ieee(ieee(ieee(float)-ieee(skin.minFloat))/ieee(ieee(skin.maxFloat)-ieee(skin.minFloat)))).substring(0, 18);
   var formattedFloat = formatFloat(ieee(parseFloat(float)))
 
   var addFloats = document.getElementById('addFloats');
@@ -15,12 +15,12 @@ function enterFloats() {
 
   var floatInputs = document.querySelector('#floatInputs');
   if (floatInputs.childElementCount === 0) {
-    var inp = createEl('input', ['floatInput'], false, {'placeholder':`Needed average: ${neededAvg}`, 'type':'number', 'onkeyup':()=>{addFloatInput()}});
+    var inp = createEl('input', ['floatInput'], false, {'placeholder':`Float Trung Bình: ${neededAvg}`, 'type':'number', 'onkeyup':()=>{addFloatInput()}});
     inp.onkeydown = function(e) { return validateNumber(e, this) };
     document.getElementById('floatInputs').appendChild(inp);
   } else {
     for (var inp of document.querySelectorAll('.floatInput')) {
-      inp.placeholder = `Needed average: ${neededAvg}`;
+      inp.placeholder = `Float Trung Bình: ${neededAvg}`;
     }
   }
   document.querySelector('.floatInput').select();
@@ -51,5 +51,5 @@ function addFloatInput() {
 
   var inputCount = floatInputs.length - 1;
   var totalCombos = (inputCount >= 10) ? getTotalCombos(inputCount, 10) : 0;
-  document.getElementById('totalCombos').innerText = totalCombos.toLocaleString() + " possible combinations";
+  document.getElementById('totalCombos').innerText = totalCombos.toLocaleString() + " Cách Kết Hợp";
 }

@@ -115,3 +115,27 @@
   font-size: 16pt;
   font-weight: normal;
 }
+.neons{
+  color: #fff;
+  text-shadow:
+      0 0 7px #1900fd,
+      0 0 10px #1900fd,
+      0 0 21px #1900fd,
+      0 0 42px #1900fd,
+      0 0 82px #1900fd,
+      0 0 92px #1900fd,
+      0 0 102px #1900fd,
+      0 0 151px #1900fd;
+}
+.neonss{
+  color: #fff;
+  text-shadow:
+      0 0 7px #1efd00,
+      0 0 10px #1efd00,
+      0 0 21px #1efd00,
+      0 0 42px #1efd00,
+      0 0 82px #1efd00,
+      0 0 92px #1efd00,
+      0 0 102px #1efd00,
+      0 0 151px #1efd00;
+}
